@@ -15,9 +15,7 @@
  
  🌱 I’m currently learning **SOFTWARE ENGINEER**
 
-
-
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+🙌 Let's collaborate on MERN Stack, Django, React Native, Web Development, and Flutter projects! I'm excited to learn and create amazing things together. 
 
  </div>
  
