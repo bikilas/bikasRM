@@ -20,7 +20,8 @@
  </div>
  
 <div align="center"> 
-    "Comtact Me By: 👇"
+    <hr>
+    "CONTACT ME BY: 👇"
     <hr>
   <a href="mailto:bikilatariku810@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
