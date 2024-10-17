@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/bikila-tariku-061284309/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://bikilas.github.io/UGR-8089-14-html-css-js/" target="_blank">
+  <a href="https://my-portfolio-git-main-bikila-tariku-s-projects.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
